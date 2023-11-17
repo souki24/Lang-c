@@ -2,6 +2,9 @@
 
 int main(void)
 {
-    printf("Hello World");
+    int price;
+    price=500;
+    
+    printf("答え:%f\n",1.1*price);
     return 0;
 }
